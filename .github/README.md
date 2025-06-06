@@ -35,8 +35,8 @@ Hand Cricket is a popular game played by children where players choose numbers a
 
 ### Prerequisites
 
-- Java Development Kit (JDK) 8 or higher
-- Any Java IDE or command line interface
+- [**Java Development Kit (JDK)**](https://www.oracle.com/in/java/technologies/downloads/) 8 or higher
+- Any [**Java IDE**](https://www.jetbrains.com/idea/download/) or [**command line interface**](https://devblogs.microsoft.com/commandline/)
 
 ### Running the Game
 
